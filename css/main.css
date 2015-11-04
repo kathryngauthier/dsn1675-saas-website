@@ -1,0 +1,28 @@
+.nav{
+	background-color: #04102A;
+	color: white;
+}
+
+.banner{
+	position: relative;
+	overflow: hidden;
+	margin: 0;
+}
+
+.banner-content{
+	position: absolute;
+	top: 8em;
+	text-align: left;
+	padding: 10px;
+	color: #fff;
+}
+
+.pre-footer{
+	background-color: #04102A;
+	color: white;
+}
+
+footer{
+
+}
+
