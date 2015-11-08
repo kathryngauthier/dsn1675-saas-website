@@ -3,6 +3,14 @@
 	color: white;
 }
 
+.navi{
+	display: none;
+}
+
+.nav-check:checked ~ .nav {
+	display: block;
+}
+
 .banner{
 	position: relative;
 	overflow: hidden;
@@ -29,6 +37,5 @@
 }
 
 footer{
-
 }
 
