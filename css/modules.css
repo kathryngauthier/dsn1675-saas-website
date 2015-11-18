@@ -392,17 +392,16 @@ svg {
 
 .btn {
   display: inline-block;
-  padding: 0.375em 0.75em 0.42em;
-  background-color: #7B656D;
-  border-radius: 8px;
-  border: 0;
+  padding: 0.375em 0.5em 0.42em;
+  border: 3px;
+  border-style: solid;
   color: #fff;
   text-decoration: none;
+  font-weight: 700;
 }
 
 .btn:hover {
-  background-color: #848484;
-  color: #fff;
+  color: #848484;
 }
 
 .btn--light {
