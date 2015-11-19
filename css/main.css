@@ -18,13 +18,13 @@ html {
   box-sizing: inherit;
 }
 
-body{
-	text-align: center;
-}
-
 header{
 	background-color: #04102A;
 	color: white;
+}
+
+nav{
+	text-align: center;
 }
 
 .header-logo{
@@ -36,6 +36,7 @@ header{
 .banner-img{
 	background-color: grey;
 	color: white;
+	text-align: center;
 }
 
 .bold{
@@ -45,6 +46,16 @@ header{
 .pre-footer{
 	background-color: #04102A;
 	color: white;
+	text-align: center;
+	padding: 10%;
+}
+
+.padding-left{
+	padding-left: 20px;
+}
+
+.footer-nav{
+	color: black;
 }
 
 .logo{
@@ -71,6 +82,10 @@ a{
 
 .light-grey{
 	background-color: lightgrey;
+}
+
+.grey{
+	background-color: grey;
 }
 
 @media only screen and (min-width: 15em ) {
